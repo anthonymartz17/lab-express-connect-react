@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function ShowLog() {
+export default function Show() {
   return (
-    <div>ShowLog</div>
+    <div>Show</div>
   )
 }
